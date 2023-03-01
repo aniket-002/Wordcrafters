@@ -1,0 +1,11 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 75vh;
+}
+
+.form textarea {
+  width: 100%;
+  height: 400px;
+}
