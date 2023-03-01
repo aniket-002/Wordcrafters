@@ -1,4 +1,4 @@
-# Bloggers-Spot
+#Wordcrafters
 This project is about simple MERN stack general purpose blogging website . 
 
 Simple personal markdown blog using MERN stack ( MongoDB, Express, React, NodeJS )
