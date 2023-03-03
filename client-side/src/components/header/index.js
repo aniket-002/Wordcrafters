@@ -57,7 +57,7 @@ const Header = ({ history }) => {
               to="/signup"
               style={{ color: "#fff", textDecoration: "none" }}
             >
-              Sign In
+              Sign Up
             </Link>
           </Button>
         </Nav.Link>
